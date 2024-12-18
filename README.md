@@ -1,0 +1,3 @@
+# JavaScript Null Value Handling in Arithmetic Operations
+
+This repository demonstrates a common error in JavaScript related to how null values are handled during arithmetic operations.  The code includes a function `foo` that performs addition, but it also incorporates explicit null checks for robust behavior.  The example shows how to properly handle null values to prevent unexpected results.  The `bug.js` file demonstrates the problem, while `bugSolution.js` provides a solution.
